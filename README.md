@@ -1,3 +1,3 @@
 # hello-world
 hello world githun
-el amine, nice to meeot you !!
+el amine, nice to meet you !!
